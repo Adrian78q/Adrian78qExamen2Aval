@@ -7,6 +7,6 @@ while true; do
         echo "El consumo total de $ciudad es: $consumo_total."
         break
     else
-        echo "Ciudad incorrecta. Introduce una ciudad válida."
+        echo "Ciudad incorrecta. Introduce una ciudad válida"
     fi
 done
